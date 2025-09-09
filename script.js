@@ -49,7 +49,7 @@ function voters(arr)
  return {
     eligiblevoters : eligible,
     invalidvoters : invalid,
-    noteligibleoters : noteligible
+    noteligiblevoters : noteligible
 
 
 }
