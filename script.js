@@ -17,8 +17,8 @@ for (var a=2; a<=10; a += 2)
 for (var f=100; f>=1; f -= 10){
     console.log(f);
 } 
- //  5.write a function to print the eligble, Not eligble voters separately from the list
-of array [18,17,16,15,10,8,7,9,35,40,86,75,0]. Note: print invalid if the voter age is 0.
+ /* 5.write a function to print the eligble, Not eligble voters separately from the list
+of array [18,17,16,15,10,8,7,9,35,40,86,75,0]. Note: print invalid if the voter age is 0.*/
 var voters=[18,17,16,15,10,8,7,9,35,40,86,75,0]
 for(var i=0;i<voters.length;i=i+1)
 {
